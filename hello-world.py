@@ -1,6 +1,2 @@
 print("Hello World!")
 print("Hello Jenkins!")
-print("My first webhook project")
-print("First change, to trigger ...")
-print("Second change, to trigger....")
-print("Yes, we can!")
